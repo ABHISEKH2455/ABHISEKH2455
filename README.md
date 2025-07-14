@@ -8,16 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ABHISEKH2455&label=Profile%20views&color=0e75b6&style=flat" alt="ABHISEKH2455" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://rohitchakraborty2k02.github.io/rohit-portfolio/](https://rohitchakraborty2k02.github.io/rohit-portfolio/)
+- 👨‍💻 All of my projects are available at (https://github.com/ABHISEKH2455)
 
-- 📫 How to reach me **aec.cse.rohit@gmail.com**
+- 📫 How to reach me **abhishekmodak.iot.aec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohit chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit chakraborty" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rohit-chakraborty-47b9a1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit chakraborty" height="30" width="40" /></a>
-<a href="https://instagram.com/ig._.levi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig._.levi23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohit_chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_chakraborty" height="30" width="40" /></a>
+<a href="https://x.com/AbhisekhModak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisekh modak" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhisekh-modak-018267254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekh modak" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_btw_its_abhisekh_?igsh=M3pnaGNybHU5dXAz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig._.levi23" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Abhisekh4321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekh_modak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
